@@ -592,7 +592,7 @@ header nav ul li a:hover {
   }
 }
 #main section.post {
-  background: #fafafa;
+  background: #303030;
   margin-bottom: 0.125em;
 }
 #main section.post a {
@@ -633,7 +633,7 @@ header nav ul li a:hover {
   margin-left: 10% !important;
 }
 #page-nav {
-  background: #fafafa;
+  background: #303030;
   text-align: center;
   overflow: hidden;
 }
@@ -709,7 +709,7 @@ header nav ul li a:hover {
   margin: 1em 0;
   width: 97%;
   padding: 2em 0 2em 3%;
-  background: #fafafa;
+  background: #303030;
   border-left: 0.5em solid #ccc;
 }
 @media only screen and (min-width: 1024px) {
@@ -780,7 +780,7 @@ header nav ul li a:hover {
 }
 .post,
 .page {
-  background: #fafafa;
+  background: #303030;
 }
 .post a,
 .page a {
@@ -913,7 +913,7 @@ article .article-content blockquote {
   font-size: 110%;
 }
 article .article-content blockquote footer {
-  background: #fafafa;
+  background: #303030;
   padding: 0;
   margin: 0;
   font-size: 80%;
@@ -1042,7 +1042,7 @@ article .article-content .right {
   float: right;
 }
 footer.article-footer {
-  background: #fafafa;
+  background: #303030;
   padding: 0 4%;
   margin: 0;
   border-top: 1px solid #dbdbdb;
@@ -1486,7 +1486,7 @@ section.comment {
   }
 }
 #asidepart {
-  background: #fafafa;
+  background: #303030;
   margin: 1em 0 0;
   padding: 0.5em 2% 1em;
 }
@@ -2049,7 +2049,7 @@ pre .xml .cdata {
   filter: alpha(opacity=50);
 }
 .article-gallery {
-  background: #fafafa;
+  background: #303030;
   position: relative;
 }
 .article-gallery-photos {
